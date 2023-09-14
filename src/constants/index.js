@@ -240,7 +240,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2023 - Aug 2023",
     points: [
-      "Developed web applications using React Native, Spring boot and MongoDB.",
+      "Developed an application using React Native, Spring boot and MongoDB.",
       "Implemented user authentication and authorization using Spring Security, ensuring secure access to features and data.",
       "Designed and implemented MongoDB databases to store user profiles, order details, and interaction history. Utilized MongoDB's flexibility to accommodate complex data structures, enabling efficient querying and data management.",
       "Integrated geolocation services using Mapbox API, displaying distances between users and order destinations.",
