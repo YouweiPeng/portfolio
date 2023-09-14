@@ -8,13 +8,17 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
-
+import Backend from './Backend';
+import Frontend from './Frontend';
+import Languages from './Languages';
 
 export {
   Hero,
   Navbar,
+  Languages,
   About,
   Tech,
+  Backend,
   Experience,
   Works,
   Feedbacks,
@@ -23,5 +27,6 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
+  Frontend,
 };
