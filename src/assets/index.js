@@ -57,7 +57,7 @@ import Student from "./Student.png"
 import Healing from "./Healing.png"
 import Youtube from "./Youtube.png"
 import Web from "./tech/Web.png"
-
+import Olia from "./company/Olia.jpg"
 
 
 export {
@@ -120,4 +120,5 @@ export {
   fanique,
   azure,
   Postman,
+  Olia,
 };
