@@ -58,8 +58,8 @@ import Healing from "./Healing.png"
 import Youtube from "./Youtube.png"
 import Web from "./tech/Web.png"
 import Olia from "./company/Olia.jpg"
-
-
+import Amelia from "./company/Amelia.jpg"
+import sd from "./sd.png"
 export {
   logo,
   Web,
@@ -121,4 +121,6 @@ export {
   azure,
   Postman,
   Olia,
+  Amelia,
+  sd,
 };

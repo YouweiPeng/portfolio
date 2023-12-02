@@ -53,6 +53,8 @@ import {
   XML,
   Bootstrap,
   Olia,
+  Amelia,
+  sd,
 } from "../assets";
 
 
@@ -235,29 +237,31 @@ const experiences = [
     ],
   },
   {
-    title: "Software developer",
-    company_name: "GaoTek Inc.",
-    icon: Gao,
-    iconBg: "#383E56",
-    date: "May 2023 - Aug 2023",
-    points: [
-      "Developed an application using React Native, Spring boot and MongoDB.",
-      "Implemented user authentication and authorization using Spring Security, ensuring secure access to features and data.",
-      "Designed and implemented MongoDB databases to store user profiles, order details, and interaction history. Utilized MongoDB's flexibility to accommodate complex data structures, enabling efficient querying and data management.",
-      "Integrated geolocation services using Mapbox API, displaying distances between users and order destinations.",
-    ],
-  },
-  {
     title: "Software engineer",
     company_name: "Transformers Academy",
     icon: TA,
     iconBg: "#E6DEDD",
-    date: "Aug 2023 - present",
+    date: "Aug 2023 - Oct 2023",
     points: [
-      "Developing and maintaining web applications using React.js Django and Express.js.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create an AI powered education platform.",
-      "Created user dashboard, course builder page using React.js, Material UI.",
-      "Integrated external APIs such as ChatGPT, replicate image analysis in Django better help customers to build their curriculum and improve their learning experience.",
+      "Developed and maintained AI powered course platform using React.js, Flask and Express framework.",
+      "Collaborated with cross-functional teams including UI/UX designers, product managers, and developers.",
+      "Created user dashboard, course builder, course data table and progress pages by React.js, Material UI.",
+      "Established logic and schema of backend and built backend system, implemented users, message, groups, child users andcourse services by PostgreSQL and Express in Typescript.",
+      "Integrated GPT-4 API, replicate image analysis in Django, helped customers to build curriculum and improved their learning experience and efficiency."
+    ],
+  },
+  {
+    title: "Software engineer",
+    company_name: "Amelia",
+    icon: Amelia,
+    iconBg: "#E6DEDD",
+    date: "Oct 2023 - Present",
+    points: [
+      "Collaborated with a team of five developers and one UI/UX designer created a social media app for tech-background women using React Native across IOS and Android platform",
+      "Built and enhanced user sign up flow, construct automation test regularly testing major functionalities of app which ensure users able to socializing by creating venues, hosting events and make new friends.",
+      "Created user dashboard, course builder, course data table and progress pages by React.js, Material UI.",
+      "Managed the lifecycle of the mobile app development, deployment processes and maintain outdated dependencies.",
+      "Helped team fixed dependency conflict problem and capable of building more features and moving forward."
     ],
   },
 
@@ -275,6 +279,28 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Social distribution platform",
+    description:
+      "A Twitter-like social media app allows user posting, liking, sharing, create comments, following friends and so on, using plain Javascript and Django.",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "django",
+        color: "green-text-gradient",
+      },
+      {
+        name: "heroku",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: sd,
+    source_code_link: "https://frontend-beeg-yoshi.onrender.com/",
+    demoType: "Website",
+  },
   {
     name: "Student Management System",
     description:
@@ -298,28 +324,6 @@ const projects = [
     demoType: "video",
   },
   {
-    name: "Healing",
-    description:
-      "Official website for the company named Healing which aims city loners as their users and provide mental health services using React, Django, and MySQL.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "django",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mysql",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: Healing,
-    source_code_link: "https://github.com/YouweiPeng/Healing",
-    demoType: "github",
-  },
-  {
     name: "QRun",
     description:
       "A Snapchat-like social media Android app based on QR scanning activity which encourage users to exercise and socialize outdoors , using Java, XML and Firebase",
@@ -340,24 +344,6 @@ const projects = [
     image: Qrun,
     source_code_link: "https://drive.google.com/file/d/14rvXqUDH7gsvCxb7Bm2OGG1qMfgPf03H/view?pli=1",
     demoType: "video",
-  },
-  {
-    name: "Youtube Clone",
-    description:
-      "The Youtube clone project not only looks like exactly same with youtube website but also have more features in frontend techniques, using HTML and CSS. ",
-    tags: [
-      {
-        name: "HTML",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "CSS",
-        color: "green-text-gradient",
-      },
-    ],
-    image: Youtube,
-    source_code_link: "https://youweipeng.github.io/YoutubeClone/",
-    demoType: "Website",
   },
 ];
 
