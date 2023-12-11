@@ -259,7 +259,6 @@ const experiences = [
     points: [
       "Collaborated with a team of five developers and one UI/UX designer created a social media app for tech-background women using React Native across IOS and Android platform",
       "Built and enhanced user sign up flow, construct automation test regularly testing major functionalities of app which ensure users able to socializing by creating venues, hosting events and make new friends.",
-      "Created user dashboard, course builder, course data table and progress pages by React.js, Material UI.",
       "Managed the lifecycle of the mobile app development, deployment processes and maintain outdated dependencies.",
       "Helped team fixed dependency conflict problem and capable of building more features and moving forward."
     ],
