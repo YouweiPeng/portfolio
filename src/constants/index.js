@@ -297,8 +297,8 @@ const projects = [
       },
     ],
     image: sd,
-    source_code_link: "https://frontend-beeg-yoshi.onrender.com/",
-    demoType: "Website",
+    source_code_link: "https://www.youtube.com/watch?v=PMXSVO6fO6A",
+    demoType: "video",
   },
   {
     name: "Student Management System",
@@ -319,7 +319,7 @@ const projects = [
       },
     ],
     image: Student,
-    source_code_link: "https://github.com/UAlberta-CMPUT401/student-mgmt",
+    source_code_link: "https://drive.google.com/file/d/1E5P5St1AcDR4gG9E9CIgTTikeXXcjcrS/view?usp=sharing",
     demoType: "video",
   },
   {
