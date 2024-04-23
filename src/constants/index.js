@@ -274,6 +274,7 @@ const testimonials = [
     designation: "CEO",
     company: "Transformers Academy",
     image: Olia,
+    LinkedInURL: "https://www.linkedin.com/in/olia-stasiuk/",
   },
 ];
 
