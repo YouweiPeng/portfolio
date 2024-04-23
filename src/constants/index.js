@@ -231,9 +231,9 @@ const experiences = [
     date: "April 2023 - August 2023",
     points: [
       "Developed a user-friendly official website for company called Healing using React.js, Django and MySQL, integrated Fanique’s internal UI/UX design patterns, worked closely with the UI/UX designer team.",
-      "Enhanced backend of website using Django, MySQL to support real time user authentication, user socializing interface with AJAX, improved system performance and decreased system response time.",
-      "Created backend servicesfor online store purchases and taking reservation request from users using Django and MySQL.",
-      "Created reusable React components which significantly improved the development progress with best practicessuch as code- splitting, decreased page load times by 20%.",
+      "Constructed backend of website using Django, MySQL to support real time user authentication, user socializing interface with AJAX, improved system performance and decreased system response time.",
+      "Enhanced backend servicesfor online store purchases and taking reservation request from users using Django and MySQL.",
+      "Created reusable React components which significantly improved the development progress with best practicessuch as code-splitting, decreased page load times by 15%.",
     ],
   },
   {
@@ -255,11 +255,11 @@ const experiences = [
     company_name: "Amelia",
     icon: Amelia,
     iconBg: "#E6DEDD",
-    date: "Oct 2023 - Present",
+    date: "Oct 2023 - Mar 2024",
     points: [
-      "Collaborated with a team of five developers and one UI/UX designer created a social media app for tech-background women using React Native across IOS and Android platform",
+      "Collaborated with a team of five developers and one UI/UX designer created a social media mobile app for tech- background women using React Native across iOS and Android platform.",
       "Built and enhanced user sign up flow, construct automation test regularly testing major functionalities of app which ensure users able to socializing by creating venues, hosting events and make new friends.",
-      "Managed the lifecycle of the mobile app development, deployment processes and maintain outdated dependencies.",
+      "Implemented new features of application such as socializing by creating venues, hosting events in Typescript.",
       "Helped team fixed dependency conflict problem and capable of building more features and moving forward."
     ],
   },
