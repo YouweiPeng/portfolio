@@ -233,7 +233,7 @@ const experiences = [
       "Developed a user-friendly official website for company called Healing using React.js, Django and MySQL, integrated Fanique’s internal UI/UX design patterns, worked closely with the UI/UX designer team.",
       "Constructed backend of website using Django, MySQL to support real time user authentication, user socializing interface with AJAX, improved system performance and decreased system response time.",
       "Enhanced backend servicesfor online store purchases and taking reservation request from users using Django and MySQL.",
-      "Created reusable React components which significantly improved the development progress with best practicessuch as code-splitting, decreased page load times by 15%.",
+      "Created reusable React components which significantly improved the development progress with best practices such as code-splitting, decreased page load times by 15%.",
     ],
   },
   {
