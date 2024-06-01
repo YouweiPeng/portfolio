@@ -321,7 +321,7 @@ const projects = [
     ],
     image: Student,
     source_code_link: "https://cmput401.ca/projects/f3993756-6ea5-4677-87f5-b7dc260625ce",
-    demoType: "video",
+    demoType: "Website",
   },
   {
     name: "QRun",
